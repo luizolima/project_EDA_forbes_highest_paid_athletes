@@ -1,4 +1,4 @@
-# project_EDA_forbes_highest_paid_athletes
+# project_forbes_highest_paid_athletes
 
 ** Em Construção
 
